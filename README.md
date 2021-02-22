@@ -2,10 +2,11 @@
 Repositório criado para a disciplina Linguagens I.
 
 # Desenvolvedor:
-## Raphael Marchetti Calciolari
+ - Raphael Marchetti Calciolari
+
+ [comment]: <> (This is a comment, it will not be included)
 
 # Linguagens e Frameworks:
 - Python
 - C
 - Java
-
