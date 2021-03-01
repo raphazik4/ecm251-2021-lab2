@@ -27,6 +27,7 @@ public class Basico03 {
             chute = sorteador.nextInt(  999999 ) ;
             tentativas++;
         }
+        System.out.println("Você quebrou a senha em " + tentativas + "tentativas");
 
     }
 
