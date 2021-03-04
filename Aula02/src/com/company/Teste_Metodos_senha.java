@@ -7,8 +7,8 @@ public class Teste_Metodos_senha {
     public static void main(String[] args) {
 
 
-        int alcance = 999999;
-        int senha = 123456;
+        int alcance = 9999;
+        int senha = 1234;
         int contador;
 
         //Metodo numeros aleatorios ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -21,7 +21,7 @@ public class Teste_Metodos_senha {
             chute = sorteador.nextInt(alcance);
             contador++;
         }
-        System.out.println("\nMétodo némros aleatórios:");
+        System.out.println("\nMétodo números aleatórios:");
         System.out.println("A senha foi quebrada em " + contador + " tentativas.\nSenha: " + chute);
 
         //Metodo contador unitário, inicio em 0 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
